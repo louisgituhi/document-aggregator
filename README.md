@@ -1,5 +1,5 @@
 # Aggregator UI
-(!https://github.com/louisgituhi/document-aggregator/blob/main/images/aggregator.png)
+![UI](https://github.com/louisgituhi/document-aggregator/blob/main/images/aggregator.png)
 
 
 # React + Vite
